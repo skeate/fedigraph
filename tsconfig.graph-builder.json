@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/graph-builder",
+    "target": "ESNext",
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "types": ["node"],
+    "rootDir": "src/graph-builder"
+  },
+  "include": ["src/graph-builder/*.ts"]
+}
