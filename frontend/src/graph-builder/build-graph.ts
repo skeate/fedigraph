@@ -1,7 +1,10 @@
 import { MultiBar } from 'cli-progress'
 import 'dotenv/config'
 import * as fs from 'fs/promises'
+import got from 'got'
 import * as path from 'path'
+// @ts-ignore
+import log from 'why-is-node-running'
 
 type Instance = {
   id: string
@@ -62,19 +65,6 @@ type ModeratedResponse = Array<{
   comment: string
 }>
 
-const timedJsonFetch = async <A>(
-  url: string,
-  options?: { headers?: Record<string, string>; timeout?: number },
-): Promise<A> => {
-  const { headers = {}, timeout = 10000 } = options ?? {}
-
-  const controller = new AbortController()
-  const timeoutId = setTimeout(() => controller.abort(), timeout)
-  const response = await fetch(url, { headers, signal: controller.signal })
-  clearTimeout(timeoutId)
-  return response.json()
-}
-
 const downloadWithCache = async <A>(
   url: string,
   filename: string,
@@ -85,14 +75,22 @@ const downloadWithCache = async <A>(
   | { tag: 'error'; message: string }
 > => {
   try {
+    throw new Error('no caching')
     const fileContents = await fs.readFile(filename, { encoding: 'utf-8' })
     const file: A = JSON.parse(fileContents)
     return { tag: 'cached', data: file }
   } catch (e) {
     try {
-      const file = await timedJsonFetch<A>(url, { headers })
+      const file = await got
+        .get(url, {
+          timeout: {
+            request: 10000,
+          },
+          headers,
+        })
+        .json<A>()
       await fs.mkdir(path.dirname(filename), { recursive: true })
-      await fs.writeFile(filename, JSON.stringify(file), { encoding: 'utf-8' })
+      // await fs.writeFile(filename, JSON.stringify(file), { encoding: 'utf-8' })
       return { tag: 'downloaded', data: file }
     } catch (e) {
       return {
@@ -167,9 +165,10 @@ type InstanceMeta = {
     }
 )
 const getInstanceInfo =
-  (instanceSet: InstanceSet) =>
+  (instanceSet: InstanceSet, onDone?: (msg: string) => void) =>
   async (instance: Instance): Promise<InstanceMeta> => {
     const moderated = await getInstanceModerated(instanceSet)(instance)
+    onDone?.(`${instance.name}: ${moderated.tag}`)
 
     const meta: InstanceMeta =
       moderated.tag === 'error'
@@ -184,6 +183,7 @@ const getInstanceInfo =
             moderatedVisibility: 'public',
             moderated: moderated.data,
           }
+    await new Promise((resolve) => setTimeout(resolve, 100))
     return meta
   }
 
@@ -278,11 +278,18 @@ const main = async () => {
     etaBuffer: 50,
   })
   const progress = bar.create(instances.length, 0)
-  const results = await batch(instances, 15, (msg: string) => {
+  // const instanceSet = new Set(instances.map((instance) => instance.name))
+  // const handle = getInstanceInfo(instanceSet, (msg) => {
+  //   progress.increment()
+  //   bar.log(msg + '\n')
+  // })
+  // const results = await Promise.all(instances.map(handle))
+  const results = await batch(instances, 1000, (msg: string) => {
     // console.log(msg)
     progress.increment()
     bar.log(msg + '\n')
   })
+  bar.stop()
   console.log('done getting instance info')
   const graphData = getGraphData(results)
   console.log(
@@ -292,8 +299,6 @@ const main = async () => {
     encoding: 'utf-8',
   })
   console.log('wrote graph file')
-  console.log((process as any)._getActiveHandles())
-  console.log((process as any)._getActiveRequests())
 }
 
 main()

@@ -9,7 +9,7 @@
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "types": ["node"],
-    "rootDir": "src/graph-builder"
+    "rootDir": "frontend/src/graph-builder"
   },
-  "include": ["src/graph-builder/*.ts"]
+  "include": ["frontend/src/graph-builder/*.ts"]
 }

@@ -20,7 +20,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src/frontend"],
+  "include": ["frontend/src/frontend"],
   "references": [
     { "path": "./tsconfig.node.json" },
     { "path": "./tsconfig.graph-builder.json" }

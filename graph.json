@@ -1,0 +1,5861 @@
+{
+  "lastUpdated": "2023-06-21T00:09:07.654472",
+  "nodes": [
+    { "id": "dev-wiki.de", "users": 0 },
+    { "id": "kyaruc.moe", "users": 0 },
+    { "id": "microblog.club", "users": 0 },
+    { "id": "name.my", "users": 0 },
+    { "id": "freedomstrike.net", "users": 0 },
+    { "id": "kazar.ma", "users": 0 },
+    { "id": "normal.style", "users": 0 },
+    { "id": "wmaf.masto.host", "users": 0 },
+    { "id": "marsey.moe", "users": 0 },
+    { "id": "cachapa.moe", "users": 0 },
+    { "id": "notbird.site", "users": 0 },
+    { "id": "noc.social", "users": 0 },
+    { "id": "neko.ci", "users": 0 },
+    { "id": "gab.ai", "users": 0 },
+    { "id": "lgbtfree.zone", "users": 0 },
+    { "id": "cryptotooter.com", "users": 0 },
+    { "id": "ryona.agency", "users": 0 },
+    { "id": "addy.gg", "users": 0 },
+    { "id": "nsfw.cafe", "users": 0 },
+    { "id": "angrytoday.com", "users": 0 },
+    { "id": "intkos.link", "users": 0 },
+    { "id": "nalocal519.social", "users": 0 },
+    { "id": "anemoneya.me", "users": 0 },
+    { "id": "desupost.soy", "users": 0 },
+    { "id": "cum.salon", "users": 0 },
+    { "id": "mstdn.foxfam.club", "users": 0 },
+    { "id": "tumblr.com", "users": 0 },
+    { "id": "pmth.us", "users": 0 },
+    { "id": "banepo.st", "users": 0 },
+    { "id": "dtzbts.xyz", "users": 0 },
+    { "id": "bemoe.online", "users": 0 },
+    { "id": "kurosawa.moe", "users": 0 },
+    { "id": "z0ne.social", "users": 0 },
+    { "id": "birdsite.link", "users": 0 },
+    { "id": "shitasstits.life", "users": 0 },
+    { "id": "xhais.love", "users": 0 },
+    { "id": "stealthward.xyz", "users": 0 },
+    { "id": "social.arclight.pro", "users": 0 },
+    { "id": "agdersam.no", "users": 0 },
+    { "id": "kinky.business", "users": 0 },
+    { "id": "pleromashit.nexus", "users": 0 },
+    { "id": "activitypub-troll.cf", "users": 0 },
+    { "id": "bird.evilcyberhacker.net", "users": 0 },
+    { "id": "ieji.de", "users": 0 },
+    { "id": "staysilent.party", "users": 0 },
+    { "id": "ranran.tw", "users": 0 },
+    { "id": "cawfee.club", "users": 0 },
+    { "id": "0sint.social", "users": 0 },
+    { "id": "troll.cafe", "users": 0 },
+    { "id": "bitcointv.com", "users": 0 },
+    { "id": "libre.video", "users": 0 },
+    { "id": "cubhub.social", "users": 0 },
+    { "id": "fedsearch.io", "users": 0 },
+    { "id": "asbestos.cafe", "users": 0 },
+    { "id": "endtimebelievers.com", "users": 0 },
+    { "id": "fedi.buzz", "users": 0 },
+    { "id": "pinnoto.org", "users": 0 },
+    { "id": "pkteerium.xyz", "users": 0 },
+    { "id": "saintsofvirtue.org", "users": 0 },
+    { "id": "chatelet.ovh", "users": 0 },
+    { "id": "*.anime.website", "users": 0 },
+    { "id": "sneed.social", "users": 0 },
+    { "id": "imirhil.fr", "users": 0 },
+    { "id": "xmrposter.club", "users": 0 },
+    { "id": "bassam.social", "users": 0 },
+    { "id": "eightpoint.app", "users": 0 },
+    { "id": "jaeger.website", "users": 0 },
+    { "id": "strelizia.net", "users": 0 },
+    { "id": "mobirocket.com", "users": 0 },
+    { "id": "ufoi.info", "users": 0 },
+    { "id": "artalley.porn", "users": 0 },
+    { "id": "berserker.town", "users": 0 },
+    { "id": "epsilon.social", "users": 0 },
+    { "id": "esmailelbob.xyz", "users": 0 },
+    { "id": "ginny.chat", "users": 0 },
+    { "id": "keinpfusch.net", "users": 0 },
+    { "id": "boymoder.biz", "users": 0 },
+    { "id": "rdrama.cc", "users": 0 },
+    { "id": "pleroma.rareome.ga", "users": 0 },
+    { "id": "bird.makeup", "users": 0 },
+    { "id": "goreslut.xyz", "users": 0 },
+    { "id": "glee.li", "users": 0 },
+    { "id": "mentality.rip", "users": 0 },
+    { "id": "gup.pe", "users": 0 },
+    { "id": "lyricaltokarev.fun", "users": 0 },
+    { "id": "heonian.org", "users": 0 },
+    { "id": "norge.social", "users": 0 },
+    { "id": "stormcloak.info", "users": 0 },
+    { "id": "bozgor.org", "users": 0 },
+    { "id": "leafposter.club", "users": 0 },
+    { "id": "grishka.me", "users": 0 },
+    { "id": "rdrama.net", "users": 0 },
+    { "id": "clube.social", "users": 0 },
+    { "id": "kitty.town", "users": 0 },
+    { "id": "marsey.club", "users": 0 },
+    { "id": "babyfurs.social", "users": 0 },
+    { "id": "skyshanty.xyz", "users": 0 },
+    { "id": "pravda.me", "users": 0 },
+    { "id": "gameliberty.club", "users": 0 },
+    { "id": "skinheads.social", "users": 0 },
+    { "id": "conchrepublic.social", "users": 0 },
+    { "id": "*.xenofem.me", "users": 0 },
+    { "id": "beefyboys.club", "users": 0 },
+    { "id": "80percent.social", "users": 0 },
+    { "id": "talkbet.org", "users": 0 },
+    { "id": "pl.ebin.zone", "users": 0 },
+    { "id": "fuwafuwa.moe", "users": 0 },
+    { "id": "satoshishop.de", "users": 0 },
+    { "id": "home.social", "users": 0 },
+    { "id": "contrapointsfan.club", "users": 0 },
+    { "id": "princess.cat", "users": 0 },
+    { "id": "librem.one", "users": 0 },
+    { "id": "graz.social", "users": 0 },
+    { "id": "freebird.gdn", "users": 0 },
+    { "id": "2heng.xin", "users": 0 },
+    { "id": "flipboard.social", "users": 0 },
+    { "id": "eientei.org", "users": 0 },
+    { "id": "mooo.com", "users": 0 },
+    { "id": "fedi.site", "users": 0 },
+    { "id": "bitcoinhackers.org", "users": 0 },
+    { "id": "manji.dev", "users": 0 },
+    { "id": "sleeck.eu", "users": 0 },
+    { "id": "social.tchncs.de", "users": "20704" },
+    { "id": "pouque.net", "users": 0 },
+    { "id": "monero.town", "users": 0 },
+    { "id": "eveningzoo.club", "users": 0 },
+    { "id": "societal.co", "users": 0 },
+    { "id": "boks.moe", "users": 0 },
+    { "id": "bikeshed.party", "users": 0 },
+    { "id": "jigglypuff.club", "users": 0 },
+    { "id": "cybercriminal.eu", "users": 0 },
+    { "id": "seo.chat", "users": 0 },
+    { "id": "theredbees.be", "users": 0 },
+    { "id": "catgirl.life", "users": 0 },
+    { "id": "misono-ya.info", "users": 0 },
+    { "id": "expired.mentality.rip", "users": 0 },
+    { "id": "rapemeat.solutions", "users": 0 },
+    { "id": "getwild.online", "users": 0 },
+    { "id": "worm.pink", "users": 0 },
+    { "id": "glittersluts.xyz", "users": 0 },
+    { "id": "illuminati.org", "users": 0 },
+    { "id": "asonix.dog", "users": 0 },
+    { "id": "traboone.com", "users": 0 },
+    { "id": "zztails.gay", "users": 0 },
+    { "id": "firefaithfellowship.com", "users": 0 },
+    { "id": "manalejandro.com", "users": 0 },
+    { "id": "netzsphaere.xyz", "users": 0 },
+    { "id": "humblr.social", "users": 0 },
+    { "id": "maladaptive.art", "users": 0 },
+    { "id": "astrid.tech", "users": 0 },
+    { "id": "kenhbit.com", "users": 0 },
+    { "id": "bajax.us", "users": 0 },
+    { "id": "pony.tube", "users": 0 },
+    { "id": "bae.st", "users": 0 },
+    { "id": "twitter.1d4.us", "users": 0 },
+    { "id": "lolison.network", "users": 0 },
+    { "id": "23.95.115.204", "users": 0 },
+    { "id": "whitewomen.dog", "users": 0 },
+    { "id": "breastmilk.club", "users": 0 },
+    { "id": "raspberrypi.social", "users": 0 },
+    { "id": "nazi.social", "users": 0 },
+    { "id": "roelfrenkema.com", "users": 0 },
+    { "id": "toast.cafe", "users": 0 },
+    { "id": "b.9chan.lol", "users": 0 },
+    { "id": "sackheads.social", "users": 0 },
+    { "id": "masthead.social", "users": 0 },
+    { "id": "albin.social", "users": 0 },
+    { "id": "anim*.****ite", "users": 0 },
+    { "id": "fuckgov.org", "users": 0 },
+    { "id": "moa.st", "users": 0 },
+    { "id": "spinster.dev", "users": 0 },
+    { "id": "thepostearthdestination.com", "users": 0 },
+    { "id": "friendica.eskimo.com", "users": 0 },
+    { "id": "ligma.pro", "users": 0 },
+    { "id": "crucible.world", "users": 0 },
+    { "id": "homunyan.com", "users": 0 },
+    { "id": "mastodon.digitalsuccess.dev", "users": 0 },
+    { "id": "4aem.com", "users": 0 },
+    { "id": "society.oftrolls.com", "users": 0 },
+    { "id": "cafkafk.com", "users": 0 },
+    { "id": "nicecrew.digital", "users": 0 },
+    { "id": "enby.space", "users": 0 },
+    { "id": "shrimpposter.club", "users": 0 },
+    { "id": "bkryer.com", "users": 0 },
+    { "id": "vibewave.space", "users": 0 },
+    { "id": "hallsofamenti.io", "users": 0 },
+    { "id": "mastodon.com.tw", "users": 0 },
+    { "id": "criminallycute.fi", "users": 0 },
+    { "id": "mu.zaitcev.nu", "users": 0 },
+    { "id": "furry.lgbt", "users": 0 },
+    { "id": "ai.wiki", "users": 0 },
+    { "id": "commiespace.duckdns.org", "users": 0 },
+    { "id": "aria.company", "users": 0 },
+    { "id": "whitehouse.org", "users": 0 },
+    { "id": "pieville.net", "users": 0 },
+    { "id": "witches.town", "users": 0 },
+    { "id": "dair-community.social", "users": 0 },
+    { "id": "hwfo.online", "users": 0 },
+    { "id": "preteengirls.biz", "users": 0 },
+    { "id": "gs.kawa-kun.com", "users": 0 },
+    { "id": "iddqd.social", "users": 0 },
+    { "id": "eatthebugs.social", "users": 0 },
+    { "id": "ctseuro.com", "users": 0 },
+    { "id": "posix.gay", "users": 0 },
+    { "id": "social.lucci.xyz", "users": 0 },
+    { "id": "nationaljustice.social", "users": 0 },
+    { "id": "elonsucks.org", "users": 0 },
+    { "id": "schwartzwelt.xyz", "users": 0 },
+    { "id": "spinster.xyz", "users": 0 },
+    { "id": "bear.community", "users": 0 },
+    { "id": "skorpil.cz", "users": 0 },
+    { "id": "pleroma.karjalazet.se", "users": 0 },
+    { "id": "fightthis.net", "users": 0 },
+    { "id": "blob.cat", "users": 0 },
+    { "id": "itmslaves.com", "users": 0 },
+    { "id": "xcess.one", "users": 0 },
+    { "id": "dickkickextremist.xyz", "users": 0 },
+    { "id": "nnia.space", "users": 0 },
+    { "id": "dadalo.pl", "users": 0 },
+    { "id": "kiai.lemmy.ninja", "users": 0 },
+    { "id": "liberal.city", "users": 0 },
+    { "id": "kys.moe", "users": 0 },
+    { "id": "handicapped.tk", "users": 0 },
+    { "id": "oneway.masto.host", "users": 0 },
+    { "id": "hiveway.net", "users": 0 },
+    { "id": "justicewarrior.social", "users": 0 },
+    { "id": "craf*******.moe", "users": 0 },
+    { "id": "social.lovingexpressions.net", "users": 0 },
+    { "id": "10minutepleroma.com", "users": 0 },
+    { "id": "milker.cafe", "users": 0 },
+    { "id": "bubbletea.dev", "users": 0 },
+    { "id": "freespeech.fans", "users": 0 },
+    { "id": "icyphox.sh", "users": 0 },
+    { "id": "shitposter.club", "users": 0 },
+    { "id": "kag.social", "users": 0 },
+    { "id": "hach.re", "users": 0 },
+    { "id": "hexagon.space", "users": 0 },
+    { "id": "wolfgirl.bar", "users": 0 },
+    { "id": "the9thcircle.club", "users": 0 },
+    { "id": "privex.social", "users": 0 },
+    { "id": "needs.vodka", "users": 0 },
+    { "id": "animesexual.community", "users": 0 },
+    { "id": "dirtyhobby.xyz", "users": 0 },
+    { "id": "gleasonator.com", "users": 0 },
+    { "id": "vipper.party", "users": 0 },
+    { "id": "smugloli.net", "users": 0 },
+    { "id": "masto.glx-consulting.com", "users": 0 },
+    { "id": "phreedom.tk", "users": 0 },
+    { "id": "kawa-kun.com", "users": 0 },
+    { "id": "mahodou.moe", "users": 0 },
+    { "id": "attractive.space", "users": 0 },
+    { "id": "mitra.social", "users": 0 },
+    { "id": "shrike.club", "users": 0 },
+    { "id": "poweredbycocaine.com", "users": 0 },
+    { "id": "querdenken-711.de", "users": 0 },
+    { "id": "social.hatthieves.es", "users": 0 },
+    { "id": "shelter.moe", "users": 0 },
+    { "id": "jgc.org", "users": 0 },
+    { "id": "nekocave.xyz", "users": 0 },
+    { "id": "bittube.video", "users": 0 },
+    { "id": "mastodon.party.at", "users": 0 },
+    { "id": "kolektiva.social", "users": 0 },
+    { "id": "mstdn.io", "users": 0 },
+    { "id": "udongein.xyz", "users": 0 },
+    { "id": "kitsunemimi.club", "users": 0 },
+    { "id": "snouts.online", "users": 0 },
+    { "id": "darlow.co.uk", "users": 0 },
+    { "id": "icosahedron.website", "users": "870" },
+    { "id": "propaganda.global", "users": 0 },
+    {
+      "id": "buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life",
+      "users": 0
+    },
+    { "id": "threads.net", "users": 0 },
+    { "id": "soykaf.org", "users": 0 },
+    { "id": "syspxl.xyz", "users": 0 },
+    { "id": "rareome.ga", "users": 0 },
+    { "id": "translunar.academy", "users": 0 },
+    { "id": "yumeka.xyz", "users": 0 },
+    { "id": "glowers.club", "users": 0 },
+    { "id": "press.coop", "users": 0 },
+    { "id": "sauleau.social", "users": 0 },
+    { "id": "gspot.social", "users": 0 },
+    { "id": "meme.moe", "users": 0 },
+    { "id": "sid500.com", "users": 0 },
+    { "id": "greenboys.club", "users": 0 },
+    { "id": "port0.org", "users": 0 },
+    { "id": "abdl.link", "users": 0 },
+    { "id": "neenster.org", "users": 0 },
+    { "id": "mastodong.lol", "users": 0 },
+    { "id": "fedi.app", "users": 0 },
+    { "id": "my.dirtyhobby.xyz", "users": 0 },
+    { "id": "kyou.social", "users": 0 },
+    { "id": "birdsite.live", "users": 0 },
+    { "id": "celp.de", "users": 0 },
+    { "id": "liberdon.com", "users": 0 },
+    { "id": "pl.smuglo.li", "users": 0 },
+    { "id": "poast.tv", "users": 0 },
+    { "id": "noagendasocial.com", "users": 0 },
+    { "id": "*.daemons.it", "users": 0 },
+    { "id": "fr13nd5.com", "users": 0 },
+    { "id": "skinheads.io", "users": 0 },
+    { "id": "drow.be", "users": 0 },
+    { "id": "redliberal.com", "users": 0 },
+    { "id": "asteroidm.space", "users": 0 },
+    { "id": "gatewayy.net", "users": 0 },
+    { "id": "quanta.wiki", "users": 0 },
+    { "id": "freak.university", "users": 0 },
+    { "id": "sealion.club", "users": 0 },
+    { "id": "social.daemons.it", "users": 0 },
+    { "id": "13bells.com", "users": 0 },
+    { "id": "social.jesuislibre.net", "users": 0 },
+    { "id": "rettiwtkcuf.social", "users": 0 },
+    { "id": "payfrit.com", "users": 0 },
+    { "id": "solagg.com", "users": 0 },
+    { "id": "patch.cx", "users": 0 },
+    { "id": "breizh.pm", "users": 0 },
+    { "id": "wuwox.com", "users": 0 },
+    { "id": "suya.place", "users": 0 },
+    { "id": "birb.space", "users": 0 },
+    { "id": "seal.cafe", "users": 0 },
+    { "id": "gabfed.com", "users": 0 },
+    { "id": "cyuucat.moe", "users": 0 },
+    { "id": "slash.cl", "users": 0 },
+    { "id": "springbo.cc", "users": 0 },
+    { "id": "vsta.org", "users": 0 },
+    { "id": "pinksheep.org", "users": 0 },
+    { "id": "pleroma.wolfie.pw", "users": 0 },
+    { "id": "kemonololi.com", "users": 0 },
+    { "id": "shota.social", "users": 0 },
+    { "id": "forum.decisiveliberty.news", "users": 0 },
+    { "id": "posting.lolicon.rocks", "users": 0 },
+    { "id": "social.ancreport.com", "users": 0 },
+    { "id": "csswg.org", "users": 0 },
+    { "id": "pl.cr*********.moe", "users": 0 },
+    { "id": "sinblr.com", "users": 0 },
+    { "id": "mastodon.sl", "users": 0 },
+    { "id": "ongii.com", "users": 0 },
+    { "id": "anarchyfox.space", "users": 0 },
+    { "id": "amala.schwartzwelt.xyz", "users": 0 },
+    { "id": "rot.gives", "users": 0 },
+    { "id": "globalfrens.com", "users": 0 },
+    { "id": "rob365.online", "users": 0 },
+    { "id": "thecitadel.social", "users": 0 },
+    { "id": "lor.sh", "users": 0 },
+    { "id": "freeatlantis.com", "users": 0 },
+    { "id": "rebelbase.site", "users": 0 },
+    { "id": "terrible.place", "users": 0 },
+    { "id": "mycub.space", "users": 0 },
+    { "id": "theapex.social", "users": 0 },
+    { "id": "gensokyo.club", "users": 0 },
+    { "id": "mastodon.xyz", "users": "28427" },
+    { "id": "intherain.club", "users": 0 },
+    { "id": "hostux.social", "users": 0 },
+    { "id": "1984.cz", "users": 0 },
+    { "id": "detroitriotcity.com", "users": 0 },
+    { "id": "opalstack.social", "users": 0 },
+    { "id": "outpoa.st", "users": 0 },
+    { "id": "smuglo.li", "users": 0 },
+    { "id": "weatherishappening.network", "users": 0 },
+    { "id": "collapse.pub", "users": 0 },
+    { "id": "federated.fun", "users": 0 },
+    { "id": "producttalk.org", "users": 0 },
+    { "id": "social.quodverum.com", "users": 0 },
+    { "id": "f.haeder.net", "users": 0 },
+    { "id": "mastertibbles.co.uk", "users": 0 },
+    { "id": "undefined.social", "users": 0 },
+    { "id": "detro**********.com", "users": 0 },
+    { "id": "7td.org", "users": 0 },
+    { "id": "twtr.plus", "users": 0 },
+    { "id": "ioc.exchange", "users": 0 },
+    { "id": "meld.de", "users": 0 },
+    { "id": "celebrity.social", "users": 0 },
+    { "id": "social.esmailelbob.xyz", "users": 0 },
+    { "id": "buttplug.zone", "users": 0 },
+    { "id": "l3r.me", "users": 0 },
+    { "id": "fapsi.be", "users": 0 },
+    { "id": "refusal.biz", "users": 0 },
+    { "id": "librenet.co.za", "users": 0 },
+    { "id": "masochi.st", "users": 0 },
+    { "id": "mirr0r.city", "users": 0 },
+    { "id": "gegenstimme.tv", "users": 0 },
+    { "id": "counter.social", "users": 0 },
+    { "id": "decept.org", "users": 0 },
+    { "id": "shortstackran.ch", "users": 0 },
+    { "id": "cottongin.xyz", "users": 0 },
+    { "id": "skippers-bin.com", "users": 0 },
+    { "id": "brotka.st", "users": 0 },
+    { "id": "froth.zone", "users": 0 },
+    { "id": "hirad.it", "users": 0 },
+    { "id": "mastodutchservers.com", "users": 0 },
+    { "id": "neckbeard.xyz", "users": 0 },
+    { "id": "exited.eu", "users": 0 },
+    { "id": "bruh.homd.xyz", "users": 0 },
+    { "id": "elves.forsale", "users": 0 },
+    { "id": "paypig.org", "users": 0 },
+    { "id": "yeet.social", "users": 0 },
+    { "id": "frennet.xyz", "users": 0 },
+    { "id": "poa.st", "users": 0 },
+    { "id": "notes.baldurbjarnason.com", "users": 0 },
+    { "id": "m.tkw.fm", "users": 0 },
+    { "id": "vfpmedia.com", "users": 0 },
+    { "id": "voidgaming.co", "users": 0 },
+    { "id": "decayable.ink", "users": 0 },
+    { "id": "anti-degeneracy.club", "users": 0 },
+    { "id": "qiitadon.com", "users": 0 },
+    { "id": "myasstodon.xyz", "users": 0 },
+    { "id": "abraham.su", "users": 0 },
+    { "id": "micca.xyz", "users": 0 },
+    { "id": "miruku.cafe", "users": 0 },
+    { "id": "nukem.biz", "users": 0 },
+    { "id": "lizards.live", "users": 0 },
+    { "id": "geofront.rocks", "users": 0 },
+    { "id": "kiwifarms.net", "users": 0 },
+    { "id": "silliness.observer", "users": 0 },
+    { "id": "ura-mstdn.com", "users": 0 },
+    { "id": "nobodyhasthe.biz", "users": 0 },
+    { "id": "zecircle.xyz", "users": 0 },
+    { "id": "electroncash.de", "users": 0 },
+    { "id": "misskey-forkbomb.cf", "users": 0 },
+    { "id": "equestria.social", "users": 0 },
+    { "id": "reisen.church", "users": 0 },
+    { "id": "newjack.city", "users": 0 },
+    { "id": "social.realnephestate.xyz", "users": 0 },
+    { "id": "miniwa.moe", "users": 0 },
+    { "id": "wafrn.net", "users": 0 },
+    { "id": "5dollah.click", "users": 0 },
+    { "id": "sneed.shop", "users": 0 },
+    { "id": "veenus.art", "users": 0 },
+    { "id": "xxxtumblr.org", "users": 0 },
+    { "id": "bird.froth.zone", "users": 0 },
+    { "id": "homd.xyz", "users": 0 },
+    { "id": "humanist.social", "users": 0 },
+    { "id": "oddballs.vip", "users": 0 },
+    { "id": "freefedifollowers.ga", "users": 0 },
+    { "id": "cyberstorm.one", "users": 0 },
+    { "id": "someotherguy.xyz", "users": 0 },
+    { "id": "takesama.com", "users": 0 },
+    { "id": "veganism.social", "users": 0 },
+    { "id": "kakise.tech", "users": 0 },
+    { "id": "cloudisland.online", "users": 0 },
+    { "id": "childpawn.shop", "users": 0 },
+    { "id": "donotban.com", "users": 0 },
+    { "id": "hedgehoghunter.club", "users": 0 },
+    { "id": "rcsocial.net", "users": 0 },
+    { "id": "satania.social", "users": 0 },
+    { "id": "coolsite.win", "users": 0 },
+    { "id": "refusal.llc", "users": 0 },
+    { "id": "eversole.dev", "users": 0 },
+    { "id": "radiosocial.org", "users": 0 },
+    { "id": "leemoon.network", "users": 0 },
+    { "id": "feminism.lgbt", "users": 0 },
+    { "id": "verified.coop", "users": 0 },
+    { "id": "doesnotexist.club", "users": 0 },
+    { "id": "shitpisscum.mooo.com", "users": 0 },
+    { "id": "daspr.io", "users": 0 },
+    { "id": "cryptocartel.social", "users": 0 },
+    { "id": "mstdn.cf", "users": 0 },
+    { "id": "social.076.ne.jp", "users": 0 },
+    { "id": "jiyu.dev", "users": 0 },
+    { "id": "mostr.pub", "users": 0 },
+    { "id": "social.wideboys.org", "users": 0 },
+    { "id": "vladtepesblog.com", "users": 0 },
+    { "id": "spacelase.rs", "users": 0 },
+    { "id": "social.anoxinon.de", "users": 0 },
+    { "id": "gabe.rocks", "users": 0 },
+    { "id": "wetfish.space", "users": 0 },
+    { "id": "calobar.club", "users": 0 },
+    { "id": "fedi.pawlicker.com", "users": 0 },
+    { "id": "withinwindows.com", "users": 0 },
+    { "id": "charcha.cc", "users": 0 },
+    { "id": "fluf.club", "users": 0 },
+    { "id": "lovingexpressions.net", "users": 0 },
+    { "id": "pl.daemons.it", "users": 0 },
+    { "id": "husk.site", "users": 0 },
+    { "id": "sunrisesunset.shop", "users": 0 },
+    { "id": "lolicon.rocks", "users": 0 },
+    { "id": "animeisgay.com", "users": 0 },
+    { "id": "isleo.space", "users": 0 },
+    { "id": "birdsite.monster", "users": 0 },
+    { "id": "gitmo.life", "users": 0 },
+    { "id": "comfy.moe", "users": 0 },
+    { "id": "outerheaven.club", "users": 0 },
+    { "id": "microkod.xyz", "users": 0 },
+    { "id": "superstork.org", "users": 0 },
+    { "id": "freecumextremist.com", "users": 0 },
+    { "id": "beehub.org", "users": 0 },
+    { "id": "disqordia.space", "users": 0 },
+    { "id": "hatthieves.es", "users": 0 },
+    { "id": "fediverse.lol", "users": 0 },
+    { "id": "horny.house", "users": 0 },
+    { "id": "liberal.win", "users": 0 },
+    { "id": "poster.place", "users": 0 },
+    { "id": "weeaboo.space", "users": 0 },
+    { "id": "zedsocial.ca", "users": 0 },
+    { "id": "lain.la", "users": 0 },
+    { "id": "campbell.social", "users": 0 },
+    { "id": "normie.cafe", "users": 0 },
+    { "id": "gab.com", "users": 0 },
+    { "id": "cdrom.tokyo", "users": 0 },
+    { "id": "pawoo.net", "users": 0 },
+    { "id": "netz.org", "users": 0 },
+    { "id": "truthsocial.co.in", "users": 0 },
+    { "id": "mona**.***ine", "users": 0 },
+    { "id": "communick.com", "users": 0 },
+    { "id": "mastodon.la", "users": 0 },
+    { "id": "xenofem.me", "users": 0 },
+    { "id": "beefyboys.win", "users": 0 },
+    { "id": "xarxamontgri.masto.host", "users": 0 },
+    { "id": "gnulinux.social", "users": 0 },
+    { "id": "uwu.social", "users": 0 },
+    { "id": "bungle.online", "users": 0 },
+    { "id": "gamers.exposed", "users": 0 },
+    { "id": "squid.kids", "users": 0 },
+    { "id": "fedichive.tk", "users": 0 },
+    { "id": "tkammer.de", "users": 0 },
+    { "id": "uwu.st", "users": 0 },
+    { "id": "awootism.club", "users": 0 },
+    { "id": "bitcoin.ninja", "users": 0 },
+    { "id": "liker.social", "users": 0 },
+    { "id": "notmastodon.xyz", "users": 0 },
+    { "id": "kawen.space", "users": 0 },
+    { "id": "jawsh.xyz", "users": 0 },
+    { "id": "shota.house", "users": 0 },
+    { "id": "video.076.ne.jp", "users": 0 },
+    { "id": "nekoea.red", "users": 0 },
+    { "id": "repl.co", "users": 0 },
+    { "id": "newsie.social", "users": 0 },
+    { "id": "whinge.house", "users": 0 },
+    { "id": "cthonic.club", "users": 0 },
+    { "id": "ceilidh.space", "users": 0 },
+    { "id": "raki.social", "users": 0 },
+    { "id": "zeroes.ca", "users": 0 },
+    { "id": "ghetti.monster", "users": 0 },
+    { "id": "blockedur.mom", "users": 0 },
+    { "id": "globalwarming.fun", "users": 0 },
+    { "id": "kenfm.de", "users": 0 },
+    { "id": "3zi.ru", "users": 0 },
+    { "id": "morale.ch", "users": 0 },
+    { "id": "nullob.si", "users": 0 },
+    { "id": "ns.auction", "users": 0 },
+    { "id": "fedi.live", "users": 0 },
+    { "id": "social.illegalpornography.com", "users": 0 },
+    { "id": "boyter.org", "users": 0 },
+    { "id": "ehjovan.com", "users": 0 },
+    { "id": "ignorelist.com", "users": 0 },
+    { "id": "map.osrx.chat", "users": 0 },
+    { "id": "koyu.space", "users": 0 },
+    { "id": "mastodon.cloud", "users": 0 },
+    { "id": "mstdn.jp", "users": 0 },
+    { "id": "jeder.pl", "users": 0 },
+    { "id": "stereophonic.space", "users": 0 },
+    { "id": "sneed.vip", "users": 0 },
+    { "id": "cats-home.net", "users": 0 },
+    { "id": "sperg.city", "users": 0 },
+    { "id": "arjoranta.fi", "users": 0 },
+    { "id": "clubcyberia.co", "users": 0 },
+    { "id": "truthsocial.st", "users": 0 },
+    { "id": "inferencium.net", "users": 0 },
+    { "id": "zotum.net", "users": 0 },
+    { "id": "mediastodon.com", "users": 0 },
+    { "id": "cliterati.club", "users": 0 },
+    { "id": "cloudflare.social", "users": 0 },
+    { "id": "lain.gay", "users": 0 },
+    { "id": "socnet.softgirl.online", "users": 0 },
+    { "id": "activitypub-proxy.cf", "users": 0 },
+    { "id": "novoa.nagoya", "users": 0 },
+    { "id": "fedi.cc", "users": 0 },
+    { "id": "develop.gab.com", "users": 0 },
+    { "id": "bylines.social", "users": 0 },
+    { "id": "djsumdog.com", "users": 0 },
+    { "id": "0x68756773.moe", "users": 0 },
+    { "id": "adachi.party", "users": 0 },
+    { "id": "alphasoft.org", "users": 0 },
+    { "id": "deadreckoning.cc", "users": 0 },
+    { "id": "nomoresha.me", "users": 0 },
+    { "id": "pokemon.men", "users": 0 },
+    { "id": "otakufarms.com", "users": 0 },
+    { "id": "helladoge.com", "users": 0 },
+    { "id": "projectsegfau.lt", "users": 0 },
+    { "id": "freesoftwareextremist.com", "users": 0 },
+    { "id": "sadlads.com", "users": 0 },
+    { "id": "umbrellix.org", "users": 0 },
+    { "id": "poridge.club", "users": 0 },
+    { "id": "lukesmith.xyz", "users": 0 },
+    { "id": "xiii.ch", "users": 0 },
+    { "id": "milkers.online", "users": 0 },
+    { "id": "witches.live", "users": 0 },
+    { "id": "fediverso.net", "users": 0 },
+    { "id": "bunny.cafe", "users": 0 },
+    { "id": "midwaytrades.com", "users": 0 },
+    { "id": "mugicha.club", "users": 0 },
+    { "id": "cloudcauldron.io", "users": 0 },
+    { "id": "furfag.de", "users": 0 },
+    { "id": "youjo.love", "users": 0 },
+    { "id": "gearlandia.haus", "users": 0 },
+    { "id": "rojogato.com", "users": 0 },
+    { "id": "meatbag.app", "users": 0 },
+    { "id": "pisskey.io", "users": 0 },
+    { "id": "cachapa.xyz", "users": 0 },
+    { "id": "crypto-group-buy.com", "users": 0 },
+    { "id": "sphere.com.ai", "users": 0 },
+    { "id": "paws.moe", "users": 0 },
+    { "id": "cryo.icu", "users": 0 },
+    { "id": "yukioke.com", "users": 0 },
+    { "id": "hidamari.apartments", "users": 0 },
+    { "id": "vinzant.me", "users": 0 },
+    { "id": "declin.eu", "users": 0 },
+    { "id": "civiq.social", "users": 0 },
+    { "id": "awoo.fyi", "users": 0 },
+    { "id": "freethinkers.lgbt", "users": 0 },
+    { "id": "instagram.com", "users": 0 },
+    { "id": "pone.social", "users": 0 },
+    { "id": "uelfte.club", "users": 0 },
+    { "id": "kiwifarms.cc", "users": 0 },
+    { "id": "yang.social", "users": 0 },
+    { "id": "techn.ical.ist", "users": 0 },
+    { "id": "succubi.services", "users": 0 },
+    { "id": "search.fedi.app", "users": 0 },
+    { "id": "kompost.cz", "users": 0 },
+    { "id": "brighteon.social", "users": 0 },
+    { "id": "iconfactory.world", "users": 0 },
+    { "id": "fedibb.ml", "users": 0 },
+    { "id": "mastodon.cf", "users": 0 },
+    { "id": "rats-at.work", "users": 0 },
+    { "id": "chudbuds.lol", "users": 0 },
+    { "id": "domo.cafe", "users": 0 },
+    { "id": "wxw.moe", "users": 0 },
+    { "id": "canberrasocial.net", "users": 0 },
+    { "id": "whitesmokebbq.social", "users": 0 },
+    { "id": "yggdrasil.social", "users": 0 },
+    { "id": "kolektiva.media", "users": 0 },
+    { "id": "boobytooth.social", "users": 0 },
+    { "id": "baldurbjarnason.com", "users": 0 },
+    { "id": "d-fens.systems", "users": 0 },
+    { "id": "truthsocial.com", "users": 0 },
+    { "id": "this-is-epic.space", "users": 0 },
+    { "id": "tinfoil-hat.net", "users": 0 },
+    { "id": "ystn.win", "users": 0 },
+    { "id": "varishangout.net", "users": 0 },
+    { "id": "glindr.org", "users": 0 },
+    { "id": "himk.am", "users": 0 },
+    { "id": "haeder.net", "users": 0 },
+    { "id": "gnusocial.no", "users": 0 },
+    { "id": "autizmo.xyz", "users": 0 },
+    { "id": "ruinouspowe.rs", "users": 0 },
+    { "id": "awwter.online", "users": 0 },
+    { "id": "letsalllovela.in", "users": 0 },
+    { "id": "newsbots.eu", "users": 0 },
+    { "id": "fans.sonichu.com", "users": 0 },
+    { "id": "inditoot.com", "users": 0 },
+    { "id": "thechimp.zone", "users": 0 },
+    { "id": "hitchhiker.social", "users": 0 },
+    { "id": "mastod.no", "users": 0 },
+    { "id": "fetish.church", "users": 0 },
+    { "id": "xn--p1abe3d.xn--80asehdb", "users": 0 },
+    { "id": "gamercast.net", "users": 0 },
+    { "id": "quey.org", "users": 0 },
+    { "id": "dobbs.town", "users": 0 },
+    { "id": "qoto.org", "users": 0 },
+    { "id": "shpposter.club", "users": 0 },
+    { "id": "me.dm", "users": 0 },
+    { "id": "n0id.space", "users": 0 },
+    { "id": "infos**.****ange", "users": 0 },
+    { "id": "arachnid.town", "users": 0 },
+    { "id": "democracy.town", "users": 0 },
+    { "id": "republic.red", "users": 0 },
+    { "id": "masturbated.one", "users": 0 },
+    { "id": "vivaldi.net", "users": 0 },
+    { "id": "shrine.moe", "users": 0 },
+    { "id": "awscommunity.social", "users": 0 },
+    { "id": "equel.social", "users": 0 },
+    { "id": "plagu.ee", "users": 0 },
+    { "id": "mstd.tokyo", "users": 0 },
+    { "id": "seocommunity.social", "users": 0 },
+    { "id": "loli.pizza", "users": 0 },
+    { "id": "honeytree.social", "users": 0 },
+    { "id": "darknight-coffee.org", "users": 0 },
+    { "id": "vrij.social", "users": 0 },
+    { "id": "tastingtraffic.net", "users": 0 },
+    { "id": "rrfarmbot.appspot.com", "users": 0 },
+    { "id": "cum.camp", "users": 0 },
+    { "id": "treeoflifecomic.com", "users": 0 },
+    { "id": "prospeech.space", "users": 0 },
+    { "id": "journa.host", "users": 0 },
+    { "id": "masto.futbol", "users": 0 },
+    { "id": "z0ne.moe", "users": 0 },
+    { "id": "gnous.eu", "users": 0 },
+    { "id": "alteregocreations.com", "users": 0 },
+    { "id": "mastinator.com", "users": 0 },
+    { "id": "handholding.io", "users": 0 },
+    { "id": "1611.social", "users": 0 },
+    { "id": "affiliates.social", "users": 0 },
+    { "id": "sheep.network", "users": 0 },
+    { "id": "respublicae.eu", "users": 0 },
+    { "id": "kink.social", "users": 0 },
+    { "id": "getgle.org", "users": 0 },
+    { "id": "mapsupport.de", "users": 0 },
+    { "id": "merovingian.club", "users": 0 },
+    { "id": "pleroma.lol", "users": 0 },
+    { "id": "shigusegubu.club", "users": 0 },
+    { "id": "badly.co", "users": 0 },
+    { "id": "headpat.cafe", "users": 0 },
+    { "id": "076.ne.jp", "users": 0 },
+    { "id": "the.hedgehoghunter.club", "users": 0 },
+    { "id": "lolison.top", "users": 0 },
+    { "id": "kazvam.com", "users": 0 },
+    { "id": "lainchan.gay", "users": 0 },
+    { "id": "pengi-san.moe", "users": 0 },
+    { "id": "mastodon.org.uk", "users": 0 },
+    { "id": "getimiskon.xyz", "users": 0 },
+    { "id": "afront.org", "users": 0 },
+    { "id": "megamast.io", "users": 0 },
+    { "id": "fediverse.one", "users": 0 },
+    { "id": "miku-enthusiast.club", "users": 0 },
+    { "id": "progressivecafe.social", "users": 0 },
+    { "id": "mastodon.world", "users": 0 },
+    { "id": "piazza.today", "users": 0 },
+    { "id": "epenguin.com", "users": 0 },
+    { "id": "quietplace.xyz", "users": 0 },
+    { "id": "anime.website", "users": 0 },
+    { "id": "tsukihi.me", "users": 0 },
+    { "id": "cybre.club", "users": 0 },
+    { "id": "sleepy.cafe", "users": 0 },
+    { "id": "freetalklive.com", "users": 0 },
+    { "id": "cryptodon.lol", "users": 0 },
+    { "id": "disroot.org", "users": 0 },
+    { "id": "encryptionin.space", "users": 0 },
+    { "id": "cryptotalks.social", "users": 0 },
+    { "id": "hornyjail.pro", "users": 0 },
+    { "id": "counter.fedi.live", "users": 0 },
+    { "id": "freecu*********t.com", "users": 0 },
+    { "id": "exploding-heads.com", "users": 0 },
+    { "id": "9tail.net", "users": 0 },
+    { "id": "redd.live", "users": 0 },
+    { "id": "pleroma.cucked.me", "users": 0 },
+    { "id": "us.tv", "users": 0 },
+    { "id": "ua-fediland.de", "users": 0 },
+    { "id": "sneed.network", "users": 0 },
+    { "id": "nya.gay", "users": 0 },
+    { "id": "bka.li", "users": 0 },
+    { "id": "dataanalytics.social", "users": 0 },
+    { "id": "onionfarms.org", "users": 0 },
+    { "id": "waifuism.life", "users": 0 },
+    { "id": "lain.church", "users": 0 },
+    { "id": "aspiechattr.me", "users": 0 },
+    { "id": "hentai.baby", "users": 0 },
+    { "id": "scots.network", "users": 0 },
+    { "id": "ap.maladaptive.art", "users": 0 },
+    { "id": "teci.world", "users": 0 },
+    { "id": "tsunde.ru", "users": 0 },
+    { "id": "shrimpcam.pw", "users": 0 },
+    { "id": "whinge.town", "users": 0 },
+    { "id": "narrativerry.xyz", "users": 0 },
+    { "id": "obo.sh", "users": 0 },
+    { "id": "shitpost.cloud", "users": 0 },
+    { "id": "explosion.party", "users": 0 },
+    { "id": "sneak.berlin", "users": 0 },
+    { "id": "misskey.io", "users": 0 },
+    { "id": "shadowsocial.org", "users": 0 },
+    { "id": "csdisaster.club", "users": 0 },
+    { "id": "brands.town", "users": 0 },
+    { "id": "vern.cc", "users": 0 },
+    { "id": "degenerates.fail", "users": 0 },
+    { "id": "765racing.com", "users": 0 },
+    { "id": "collapsitarian.io", "users": 0 },
+    { "id": "boosterfive.com", "users": 0 },
+    { "id": "bitcoinlizard.net", "users": 0 },
+    { "id": "flussence.eu", "users": 0 },
+    { "id": "phreedom.club", "users": 0 },
+    { "id": "cliq.social", "users": 0 },
+    { "id": "genderheretics.xyz", "users": 0 },
+    { "id": "feral.cafe", "users": 0 },
+    { "id": "jmizzle.com", "users": 0 },
+    { "id": "teleyal.blog", "users": 0 },
+    { "id": "kibitz.cloud", "users": 0 },
+    { "id": "lain.com", "users": 0 },
+    { "id": "mastodon.se", "users": 0 },
+    { "id": "jorts.horse", "users": 0 },
+    { "id": "bgzashtita.es", "users": 0 },
+    { "id": "myfreecams.com", "users": 0 },
+    { "id": "*.repl.co", "users": 0 },
+    { "id": "campduffel.social", "users": 0 },
+    { "id": "moule.world", "users": 0 },
+    { "id": "fedi.ruinouspowe.rs", "users": 0 },
+    { "id": "daemons.it", "users": 0 },
+    { "id": "pirati.ca", "users": 0 },
+    { "id": "baraag.net", "users": 0 },
+    { "id": "hermitmountain.top", "users": 0 },
+    { "id": "ilias.church", "users": 0 },
+    { "id": "puri.sm", "users": 0 },
+    { "id": "technodon.org", "users": 0 },
+    { "id": "theres.life", "users": 0 },
+    { "id": "lediver.se", "users": 0 },
+    { "id": "birds.garden", "users": 0 },
+    { "id": "pedo.school", "users": 0 },
+    { "id": "unperson.us", "users": 0 },
+    { "id": "fedposters.club", "users": 0 },
+    { "id": "freespeechextremist.com", "users": 0 },
+    { "id": "battlepenguin.video", "users": 0 },
+    { "id": "fedi.tyil.nl", "users": 0 },
+    { "id": "rpi.limited.systems", "users": 0 },
+    { "id": "twiukraine.com", "users": 0 },
+    { "id": "impeccable.social", "users": 0 },
+    { "id": "annihilation.social", "users": 0 },
+    { "id": "switter.at", "users": 0 },
+    { "id": "dingdash.com", "users": 0 },
+    { "id": "adtension.com", "users": 0 }
+  ],
+  "links": [
+    {
+      "source": "mastodon.xyz",
+      "target": "detro**********.com",
+      "severity": "silence",
+      "comment": ""
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "humblr.social",
+      "severity": "silence",
+      "comment": "NSFW-focused instance"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "pawoo.net",
+      "severity": "silence",
+      "comment": "Lots of public unmoderated NSFW content"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "sinblr.com",
+      "severity": "silence",
+      "comment": "NSFW-focused instance"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "switter.at",
+      "severity": "silence",
+      "comment": "NSFW-focused instance"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "xxxtumblr.org",
+      "severity": "silence",
+      "comment": "nsfw"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "develop.gab.com",
+      "severity": "suspend",
+      "comment": "Harassment"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "freefedifollowers.ga",
+      "severity": "suspend",
+      "comment": "Spambots"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "gab.ai",
+      "severity": "suspend",
+      "comment": "Harassment"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "gab.com",
+      "severity": "suspend",
+      "comment": "Harassment"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "m.tkw.fm",
+      "severity": "suspend",
+      "comment": "spam"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "mastinator.com",
+      "severity": "suspend",
+      "comment": "Disposable accounts"
+    },
+    {
+      "source": "mastodon.xyz",
+      "target": "search.fedi.app",
+      "severity": "suspend",
+      "comment": "followbot-only"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "dev-wiki.de",
+      "severity": "silence",
+      "comment": "Not properly moderated, admin seems empathize with corona myths.  "
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gs.kawa-kun.com",
+      "severity": "silence",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "humblr.social",
+      "severity": "silence",
+      "comment": "Workaround for instance-wide CW"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "myfreecams.com",
+      "severity": "silence",
+      "comment": "Workaround for instance-wide CW"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "pawoo.net",
+      "severity": "silence",
+      "comment": "Media-block due to in germany illegal media"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "sinblr.com",
+      "severity": "silence",
+      "comment": "workaround, untagged nsfw content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "social.esmailelbob.xyz",
+      "severity": "silence",
+      "comment": "singleuser instance, content hateful towards lgbtq+"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "765racing.com",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "activitypub-troll.cf",
+      "severity": "suspend",
+      "comment": "malicious actor"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "anim*.****ite",
+      "severity": "suspend",
+      "comment": "shitposting instance, administration seems pro-pedophilia and lolicon-content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "bae.st",
+      "severity": "suspend",
+      "comment": ""
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "baraag.net",
+      "severity": "suspend",
+      "comment": "much unmoderated loli content and related"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "brands.town",
+      "severity": "suspend",
+      "comment": "spam / copyright violations / impersonation (funny tho)"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "brighteon.social",
+      "severity": "suspend",
+      "comment": "hatespeech, misinformation, shitposting, ..."
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "childpawn.shop",
+      "severity": "suspend",
+      "comment": "loli/pedophilia, racist content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "crypto-group-buy.com",
+      "severity": "suspend",
+      "comment": "spam"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "degenerates.fail",
+      "severity": "suspend",
+      "comment": "considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "detroitriotcity.com",
+      "severity": "suspend",
+      "comment": "unmoderated/lawless: shitposting/spammy content violating multiple instancerules"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "eveningzoo.club",
+      "severity": "suspend",
+      "comment": "unmoderated/lawless: much shitposting/spammy content violating multiple instancerules"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "exited.eu",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "fedichive.tk",
+      "severity": "suspend",
+      "comment": "Spam"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "feminism.lgbt",
+      "severity": "suspend",
+      "comment": "Selfprotection (errors, down) - suspicious activity"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "freeatlantis.com",
+      "severity": "suspend",
+      "comment": "fake news / propaganda"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "freecu*********t.com",
+      "severity": "suspend",
+      "comment": "shitposting instance, bad moderation"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "freefedifollowers.ga",
+      "severity": "suspend",
+      "comment": "Spam / Harmful administration activities"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "freespeechextremist.com",
+      "severity": "suspend",
+      "comment": "Workaround for instance-wide CW"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "friendica.eskimo.com",
+      "severity": "suspend",
+      "comment": "admin appears to be openly racist"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gab.ai",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gab.com",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gameliberty.club",
+      "severity": "suspend",
+      "comment": "Suspicious or harmful administration activity / considered lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gegenstimme.tv",
+      "severity": "suspend",
+      "comment": "misinformation, hateful / rightwing / nazi content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "getwild.online",
+      "severity": "suspend",
+      "comment": "dedicated to porn, not properly enforcing nsfw. rejecting media would be useless as pretty much only media is posted."
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "ginny.chat",
+      "severity": "suspend",
+      "comment": "Suspicious or harmful administration activity"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "gitmo.life",
+      "severity": "suspend",
+      "comment": "considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "hentai.baby",
+      "severity": "suspend",
+      "comment": "loli"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "iddqd.social",
+      "severity": "suspend",
+      "comment": "multiple rule violations"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "kenfm.de",
+      "severity": "suspend",
+      "comment": "Verschw\u00f6rungs-Mythen und Hetze"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "kitty.town",
+      "severity": "suspend",
+      "comment": "Suspicious or harmful administration activity"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "kiwifarms.cc",
+      "severity": "suspend",
+      "comment": "Workaround for instance-wide CW"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "loli.pizza",
+      "severity": "suspend",
+      "comment": "Not well moderated, allows loli content - even \"boosted\" by admin"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "mastinator.com",
+      "severity": "suspend",
+      "comment": "malicious actor"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "masto.glx-consulting.com",
+      "severity": "suspend",
+      "comment": "Excessive spread of conspiracy myths"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "meld.de",
+      "severity": "suspend",
+      "comment": "Conspiracy instance"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "mstdn.foxfam.club",
+      "severity": "suspend",
+      "comment": "appears to be 100% rss bots ... and a ton."
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "my.dirtyhobby.xyz",
+      "severity": "suspend",
+      "comment": "unmoderated content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "nazi.social",
+      "severity": "suspend",
+      "comment": ""
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "neckbeard.xyz",
+      "severity": "suspend",
+      "comment": "considered lawless: shitposter instance seemingly allowing loli/conspiracy/hatespeech content "
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "newjack.city",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "noagendasocial.com",
+      "severity": "suspend",
+      "comment": "hatespeech, misinformation, shitposting, ..."
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "nobodyhasthe.biz",
+      "severity": "suspend",
+      "comment": "national socialism, and more"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "ns.auction",
+      "severity": "suspend",
+      "comment": "Unmoderated racism"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "pl.smuglo.li",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "poa.st",
+      "severity": "suspend",
+      "comment": "Self-described as shitposting-instance, much racist content"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "posting.lolicon.rocks",
+      "severity": "suspend",
+      "comment": "multiple rule violations by users and admins (such as symbols of national socialism)"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "querdenken-711.de",
+      "severity": "suspend",
+      "comment": "dedicated to conspiracy myths"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "radiosocial.org",
+      "severity": "suspend",
+      "comment": "discontinued instance, block to avoid errors"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "sealion.club",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "search.fedi.app",
+      "severity": "suspend",
+      "comment": ""
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "shitposter.club",
+      "severity": "suspend",
+      "comment": "Considered being lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "sleepy.cafe",
+      "severity": "suspend",
+      "comment": "shitposting / harassment / nazistuff"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "sneed.social",
+      "severity": "suspend",
+      "comment": "shitposting/nazism/hatespeech instance"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "social.ancreport.com",
+      "severity": "suspend",
+      "comment": "spam and loli content, overall content violates multiple rules"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "social.hatthieves.es",
+      "severity": "suspend",
+      "comment": "Suspicious or harmful administration activity / considered lawless"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "socnet.softgirl.online",
+      "severity": "suspend",
+      "comment": "spam"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "solagg.com",
+      "severity": "suspend",
+      "comment": "spam, possibly harmful activities, will re-review"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "twitter.1d4.us",
+      "severity": "suspend",
+      "comment": "spam"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "varishangout.net",
+      "severity": "suspend",
+      "comment": "loli/weapons/shitpost"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "witches.town",
+      "severity": "suspend",
+      "comment": "Selfprotection (errors) due to instance discontinuation"
+    },
+    {
+      "source": "social.tchncs.de",
+      "target": "youjo.love",
+      "severity": "suspend",
+      "comment": ""
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "2heng.xin",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "abdl.link",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "afront.org",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "anarchyfox.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "artalley.porn",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "asteroidm.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "attractive.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "awscommunity.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bear.community",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "birb.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "birdsite.link",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "brands.town",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "buttplug.zone",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "criminallycute.fi",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dair-community.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "decept.org",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dirtyhobby.xyz",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "eightpoint.app",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "elonsucks.org",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "equestria.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fetish.church",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hexagon.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "home.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hostux.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "humblr.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ieji.de",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "infos**.****ange",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ioc.exchange",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jorts.horse",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "journa.host",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kink.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kinky.business",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kolektiva.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "koyu.space",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lainchan.gay",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lain.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "letsalllovela.in",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lizards.live",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.cloud",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.se",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.world",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mediastodon.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "me.dm",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "misskey.io",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mona**.***ine",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mstdn.io",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mstdn.jp",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mstd.tokyo",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "myasstodon.xyz",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "newsbots.eu",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "newsie.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nullob.si",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "outerheaven.club",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pokemon.men",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pony.tube",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "qiitadon.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ranran.tw",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "raspberrypi.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "respublicae.eu",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rettiwtkcuf.social",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shelter.moe",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sinblr.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "snouts.online",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.arclight.pro",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "society.oftrolls.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "spacelase.rs",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "technodon.org",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tumblr.com",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "udongein.xyz",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "uwu.st",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vivaldi.net",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wxw.moe",
+      "severity": "silence",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "076.ne.jp",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "0sint.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "0x68756773.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "10minutepleroma.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "13bells.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "1611.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "1984.cz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "23.95.115.204",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "3zi.ru",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "4aem.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "5dollah.click",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "7td.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "80percent.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "9tail.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "abraham.su",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "activitypub-proxy.cf",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "activitypub-troll.cf",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "adachi.party",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "addy.gg",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "adtension.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "affiliates.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "agdersam.no",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ai.wiki",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "albin.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "alphasoft.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "alteregocreations.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "amala.schwartzwelt.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "anemoneya.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "angrytoday.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "animeisgay.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "animesexual.community",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "*.anime.website",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "anime.website",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "annihilation.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "anti-degeneracy.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ap.maladaptive.art",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "arachnid.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "aria.company",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "arjoranta.fi",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "asbestos.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "asonix.dog",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "aspiechattr.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "astrid.tech",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "autizmo.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "awoo.fyi",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "awootism.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "awwter.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "b.9chan.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "babyfurs.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "badly.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bae.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bajax.us",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "baldurbjarnason.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "banepo.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "baraag.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bassam.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "battlepenguin.video",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "beefyboys.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "beefyboys.win",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "beehub.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bemoe.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "berserker.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bgzashtita.es",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bikeshed.party",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bird.evilcyberhacker.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bird.froth.zone",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bird.makeup",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "birds.garden",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "birdsite.live",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "birdsite.monster",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bitcoinhackers.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bitcoinlizard.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bitcoin.ninja",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bitcointv.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bittube.video",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bka.li",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bkryer.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "blob.cat",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "blockedur.mom",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "boks.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "boobytooth.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "boosterfive.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "boymoder.biz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "boyter.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bozgor.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "breastmilk.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "breizh.pm",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "brighteon.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "brotka.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bruh.homd.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bubbletea.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bungle.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bunny.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "bylines.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cachapa.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cachapa.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cafkafk.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "calobar.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "campbell.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "campduffel.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "canberrasocial.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "catgirl.life",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cats-home.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cawfee.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cdrom.tokyo",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ceilidh.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "celebrity.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "celp.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "charcha.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "chatelet.ovh",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "chudbuds.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "civiq.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cliq.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cliterati.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cloudcauldron.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cloudflare.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cloudisland.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "clubcyberia.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "clube.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "collapse.pub",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "collapsitarian.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "comfy.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "commiespace.duckdns.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "communick.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "conchrepublic.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "contrapointsfan.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "coolsite.win",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cottongin.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "counter.fedi.live",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "counter.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "craf*******.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "crucible.world",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cryo.icu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cryptocartel.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cryptodon.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cryptotalks.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cryptotooter.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "csdisaster.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "csswg.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cthonic.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ctseuro.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cubhub.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cum.camp",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cum.salon",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cybercriminal.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cyberstorm.one",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cybre.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "cyuucat.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dadalo.pl",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "*.daemons.it",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "daemons.it",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "darknight-coffee.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "darlow.co.uk",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "daspr.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dataanalytics.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "deadreckoning.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "decayable.ink",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "declin.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "democracy.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "desupost.soy",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "detroitriotcity.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "develop.gab.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "d-fens.systems",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dickkickextremist.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dingdash.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "disqordia.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "disroot.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "djsumdog.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dobbs.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "doesnotexist.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "domo.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "donotban.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "drow.be",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "dtzbts.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "eatthebugs.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ehjovan.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "eientei.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "electroncash.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "elves.forsale",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "enby.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "encryptionin.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "endtimebelievers.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "epenguin.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "epsilon.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "equel.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "esmailelbob.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "eveningzoo.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "eversole.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "exited.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "expired.mentality.rip",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "exploding-heads.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "explosion.party",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fans.sonichu.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fapsi.be",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "federated.fun",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.app",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedibb.ml",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.buzz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.live",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.pawlicker.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.ruinouspowe.rs",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.site",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedi.tyil.nl",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fediverse.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fediverse.one",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fediverso.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedposters.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fedsearch.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "feral.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "f.haeder.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fightthis.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "firefaithfellowship.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "flipboard.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fluf.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "flussence.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "forum.decisiveliberty.news",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fr13nd5.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freak.university",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freeatlantis.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freebird.gdn",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freecumextremist.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freedomstrike.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freefedifollowers.ga",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freesoftwareextremist.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freespeechextremist.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freespeech.fans",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freetalklive.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "freethinkers.lgbt",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "frennet.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "froth.zone",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fuckgov.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "furfag.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "furry.lgbt",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "fuwafuwa.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gab.ai",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gab.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gabe.rocks",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gabfed.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gameliberty.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gamercast.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gamers.exposed",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gatewayy.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gearlandia.haus",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "genderheretics.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gensokyo.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "geofront.rocks",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "getgle.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "getimiskon.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ghetti.monster",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gleasonator.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "glee.li",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "glindr.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "glittersluts.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "globalfrens.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "globalwarming.fun",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "glowers.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gnous.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gnulinux.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gnusocial.no",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "goreslut.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "graz.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "greenboys.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "grishka.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gspot.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "gup.pe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hach.re",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "haeder.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hallsofamenti.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "handholding.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "handicapped.tk",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hatthieves.es",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "headpat.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hedgehoghunter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "helladoge.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "heonian.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hermitmountain.top",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hidamari.apartments",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "himk.am",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hirad.it",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hitchhiker.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hiveway.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "homd.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "homunyan.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "honeytree.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "horny.house",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hornyjail.pro",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "humanist.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "husk.site",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "hwfo.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "iconfactory.world",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "icyphox.sh",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "iddqd.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ignorelist.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ilias.church",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "illuminati.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "imirhil.fr",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "impeccable.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "inditoot.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "inferencium.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "instagram.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "intherain.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "intkos.link",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "isleo.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "itmslaves.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jaeger.website",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jawsh.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jeder.pl",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jgc.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jigglypuff.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jiyu.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "jmizzle.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "justicewarrior.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kag.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kakise.tech",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kawa-kun.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kawen.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kazar.ma",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kazvam.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "keinpfusch.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kemonololi.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kenhbit.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kiai.lemmy.ninja",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kibitz.cloud",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kitsunemimi.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kiwifarms.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kiwifarms.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kolektiva.media",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kompost.cz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kurosawa.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kyaruc.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kyou.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "kys.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "l3r.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lain.church",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lain.gay",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lain.la",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "leafposter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lediver.se",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "leemoon.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lgbtfree.zone",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "liberal.city",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "liberal.win",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "liberdon.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "librem.one",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "librenet.co.za",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "libre.video",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ligma.pro",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "liker.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lolicon.rocks",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lolison.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lolison.top",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lor.sh",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lovingexpressions.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lukesmith.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "lyricaltokarev.fun",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mahodou.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "maladaptive.art",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "manalejandro.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "manji.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "map.osrx.chat",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mapsupport.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "marsey.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "marsey.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "masochi.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastertibbles.co.uk",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "masthead.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastinator.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastod.no",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.cf",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.com.tw",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.digitalsuccess.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodong.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.la",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.org.uk",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.party.at",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodon.sl",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mastodutchservers.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "masto.futbol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "masturbated.one",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "meatbag.app",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "megamast.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "meld.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "meme.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mentality.rip",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "merovingian.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "micca.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "microblog.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "microkod.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "midwaytrades.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "miku-enthusiast.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "milker.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "milkers.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "miniwa.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mirr0r.city",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "miruku.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "misono-ya.info",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "misskey-forkbomb.cf",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mitra.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "moa.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mobirocket.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "monero.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mooo.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "morale.ch",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mostr.pub",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "moule.world",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mstdn.cf",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mugicha.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mu.zaitcev.nu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "mycub.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "n0id.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nalocal519.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "name.my",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "narrativerry.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nationaljustice.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "needs.vodka",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "neenster.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nekocave.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "neko.ci",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nekoea.red",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "netz.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "netzsphaere.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nicecrew.digital",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nnia.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "noagendasocial.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nobodyhasthe.biz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "noc.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nomoresha.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "norge.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "normal.style",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "normie.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "notbird.site",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "notes.baldurbjarnason.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "notmastodon.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "novoa.nagoya",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nsfw.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nukem.biz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "nya.gay",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "obo.sh",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "oddballs.vip",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "oneway.masto.host",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ongii.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "onionfarms.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "opalstack.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "otakufarms.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "outpoa.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "patch.cx",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "paws.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "payfrit.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "paypig.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pedo.school",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pengi-san.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "phreedom.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "phreedom.tk",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "piazza.today",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pieville.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pinksheep.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pinnoto.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pirati.ca",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pisskey.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pkteerium.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "plagu.ee",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pl.cr*********.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pl.daemons.it",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pl.ebin.zone",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleroma.cucked.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleroma.karjalazet.se",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleroma.lol",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleroma.rareome.ga",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleromashit.nexus",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pleroma.wolfie.pw",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pmth.us",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "poa.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "poast.tv",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pone.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "poridge.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "port0.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "posix.gay",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "poster.place",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "posting.lolicon.rocks",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pouque.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "poweredbycocaine.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "pravda.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "press.coop",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "preteengirls.biz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "princess.cat",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "privex.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "producttalk.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "progressivecafe.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "projectsegfau.lt",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "propaganda.global",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "prospeech.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "puri.sm",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "qoto.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "quanta.wiki",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "quey.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "quietplace.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "raki.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rapemeat.solutions",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rareome.ga",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rats-at.work",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rcsocial.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rdrama.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rdrama.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rebelbase.site",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "redd.live",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "redliberal.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "refusal.biz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "refusal.llc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "reisen.church",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "*.repl.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "repl.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "republic.red",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rob365.online",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "roelfrenkema.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rojogato.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rot.gives",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rpi.limited.systems",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "rrfarmbot.appspot.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ruinouspowe.rs",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ryona.agency",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sackheads.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sadlads.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "saintsofvirtue.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "satania.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "satoshishop.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sauleau.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "schwartzwelt.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "scots.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "seal.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "seo.chat",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "seocommunity.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shadowsocial.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sheep.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shigusegubu.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shitasstits.life",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shitpisscum.mooo.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shitpost.cloud",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shitposter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shortstackran.ch",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shota.house",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shota.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shpposter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shrike.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shrimpcam.pw",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shrimpposter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "shrine.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sid500.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "silliness.observer",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "skinheads.io",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "skinheads.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "skippers-bin.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "skorpil.cz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "skyshanty.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "slash.cl",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sleeck.eu",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sleepy.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "smuglo.li",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "smugloli.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sneak.berlin",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sneed.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sneed.shop",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sneed.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sneed.vip",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.076.ne.jp",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.anoxinon.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.daemons.it",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.illegalpornography.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.jesuislibre.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.lovingexpressions.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.lucci.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.quodverum.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.realnephestate.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "social.wideboys.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "societal.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "solagg.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "someotherguy.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "soykaf.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sperg.city",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sphere.com.ai",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "spinster.dev",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "spinster.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "springbo.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "squid.kids",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "staysilent.party",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "stealthward.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "stereophonic.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "stormcloak.info",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "strelizia.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "succubi.services",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "sunrisesunset.shop",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "superstork.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "suya.place",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "syspxl.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "takesama.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "talkbet.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tastingtraffic.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "techn.ical.ist",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "teci.world",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "teleyal.blog",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "terrible.place",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "the9thcircle.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "theapex.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "thechimp.zone",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "thecitadel.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "the.hedgehoghunter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "thepostearthdestination.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "theredbees.be",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "theres.life",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "this-is-epic.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "threads.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tinfoil-hat.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tkammer.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "toast.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "traboone.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "translunar.academy",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "treeoflifecomic.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "troll.cafe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "truthsocial.co.in",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "truthsocial.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "truthsocial.st",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tsukihi.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "tsunde.ru",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "twiukraine.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "twtr.plus",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ua-fediland.de",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "uelfte.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ufoi.info",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "umbrellix.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "undefined.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "unperson.us",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ura-mstdn.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "us.tv",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "uwu.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "varishangout.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "veenus.art",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "veganism.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "verified.coop",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vern.cc",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vfpmedia.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vibewave.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "video.076.ne.jp",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vinzant.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vipper.party",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vladtepesblog.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "voidgaming.co",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vrij.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "vsta.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wafrn.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "waifuism.life",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "weatherishappening.network",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "weeaboo.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wetfish.space",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "whinge.house",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "whinge.town",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "whitehouse.org",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "whitesmokebbq.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "whitewomen.dog",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "witches.live",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "withinwindows.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wmaf.masto.host",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wolfgirl.bar",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "worm.pink",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "wuwox.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xarxamontgri.masto.host",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xcess.one",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "*.xenofem.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xenofem.me",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xhais.love",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xiii.ch",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xmrposter.club",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "xn--p1abe3d.xn--80asehdb",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "yang.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "yeet.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "yggdrasil.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "youjo.love",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "ystn.win",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "yukioke.com",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "yumeka.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "z0ne.moe",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "z0ne.social",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "zecircle.xyz",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "zedsocial.ca",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "zeroes.ca",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "zotum.net",
+      "severity": "suspend",
+      "comment": null
+    },
+    {
+      "source": "icosahedron.website",
+      "target": "zztails.gay",
+      "severity": "suspend",
+      "comment": null
+    }
+  ]
+}
