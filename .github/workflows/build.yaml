@@ -1,0 +1,28 @@
+---
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Build with cargo
+        uses: ClementTsang/cargo-action@v0.0.4
+        with:
+          directory: build-graph
+          command: build
+          args: --release
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-graph
+          path: build-graph/target/release/build-graph
