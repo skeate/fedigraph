@@ -1,0 +1,56 @@
+---
+name: Build Github Pages site
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - frontend
+  workflow_run:
+    workflows: ["Build Graph"]
+    types:
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Download previous graph.json
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build-graph.yaml
+          workflow_conclusion: success
+          name: graph
+      - name: Copy graph.json to public
+        run: mkdir -p frontend/public && cp graph.json frontend/public/graph.json
+      - name: Install dependencies
+        run: npm install
+        working-directory: frontend
+      - name: Build
+        run: npm run build
+        working-directory: frontend
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: frontend/dist
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
