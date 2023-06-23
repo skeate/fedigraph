@@ -11,6 +11,7 @@ on:
     workflows: ["Build Graph"]
     types:
       - completed
+  workflow_dispatch:
 
 jobs:
   build:
