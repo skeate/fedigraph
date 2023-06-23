@@ -17,7 +17,7 @@ export type Link = {
 }
 
 export type GraphData = {
-  lastUpdated: string
+  last_updated: string
   nodes: Node[]
   links: Link[]
 }

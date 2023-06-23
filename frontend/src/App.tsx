@@ -239,7 +239,7 @@ function App() {
                 </p>
                 <p>
                   last updated{' '}
-                  {new Date(data.data.lastUpdated).toLocaleString()}
+                  {new Date(data.data.last_updated).toLocaleString()}
                 </p>
                 <p>
                   instances do not always share their instance moderation lists;
