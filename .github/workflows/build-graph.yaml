@@ -3,7 +3,7 @@ name: Build Graph
 
 on:
   workflow_run:
-    workflows: ["Build"]
+    workflows: ["Build Graph Builder"]
     types:
       - completed
   schedule:
@@ -21,6 +21,8 @@ jobs:
           workflow: build.yaml
           workflow_conclusion: success
           name: build-graph
+      - name: Debug
+        run: ls -lah
       - name: Run graph builder
         run: ./build-graph
         env:
