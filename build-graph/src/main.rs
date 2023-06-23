@@ -58,7 +58,7 @@ async fn get_moderation(
             "https://{}/api/v1/instance/domain_blocks",
             instance.name
         ))
-        .timeout(Duration::new(5, 0))
+        .timeout(Duration::new(30, 0))
         .send()
         .await?;
     match resp.status() {
@@ -84,7 +84,7 @@ async fn get_moderation(
 async fn get_instance_list(api_key: String) -> Result<Vec<Instance>, Box<dyn Error>> {
     let client = reqwest::Client::new();
     let resp = client
-        .get("https://instances.social/api/1.0/instances/list?count=10")
+        .get("https://instances.social/api/1.0/instances/list?count=0")
         .header(AUTHORIZATION, format!("Bearer {}", api_key))
         .send()
         .await?;
