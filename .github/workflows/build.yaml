@@ -4,8 +4,12 @@ name: Build Graph Builder
 on:
   push:
     branches: ["main"]
+    paths:
+      - "build-graph/**"
   pull_request:
     branches: ["main"]
+    paths:
+      - "build-graph/**"
 
 jobs:
   build:
