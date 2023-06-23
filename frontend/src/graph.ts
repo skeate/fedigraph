@@ -12,22 +12,19 @@ export interface Node {
 export type Link = {
   source: string
   target: string
-} & (
-  | {
-      type: 'peer'
-    }
-  | {
-      type: 'silence' | 'suspend'
-      comment: string
-    }
-)
+  severity: 'silence' | 'suspend'
+  comment?: string
+}
+
+export type GraphData = {
+  lastUpdated: string
+  nodes: Node[]
+  links: Link[]
+}
 
 interface GraphParams {
   canvas: HTMLCanvasElement
-  data: {
-    nodes: Node[]
-    links: Link[]
-  }
+  data: GraphData
 }
 
 export type GraphApi = {
@@ -44,7 +41,7 @@ export const renderGraph = ({ canvas, data }: GraphParams): GraphApi => {
     nodeColor: '#6364FFaa',
     linkGreyoutOpacity: 0,
     linkColor: (link) => {
-      switch (link.type) {
+      switch (link.severity) {
         case 'silence':
           return '#88fa'
         case 'suspend':
@@ -75,7 +72,6 @@ export const renderGraph = ({ canvas, data }: GraphParams): GraphApi => {
       graph.setConfig({
         events: {
           onClick: (node) => {
-            console.log('in graph onclick')
             if (node === undefined) graph.unselectNodes()
             else graph.selectNodeById(node.id, true)
             onClick(node)

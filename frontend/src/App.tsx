@@ -2,10 +2,10 @@ import React from 'react'
 import { SingleValue } from 'react-select'
 import Select from 'react-select/async'
 
-import { GraphApi, Link, type Node, renderGraph } from './graph'
+import { GraphApi, GraphData, Link, type Node, renderGraph } from './graph'
 
-const graphData = fetch('/instance-graph.json').then(
-  (res) => res.json() as Promise<{ nodes: Node[]; links: Link[] }>,
+const graphData = fetch('/graph.json').then(
+  (res) => res.json() as Promise<GraphData>,
 )
 
 type Remote<T> =
@@ -14,18 +14,13 @@ type Remote<T> =
   | { state: 'error'; error: string }
 
 type LinkMeta = { name: string; comment?: string }
-const linkMeta = (
-  side: 'target' | 'source',
-  link: Link & { type: 'silence' | 'suspend' },
-): LinkMeta => {
+const linkMeta = (side: 'target' | 'source', link: Link): LinkMeta => {
   if (link.comment !== '') return { name: link[side], comment: link.comment }
   return { name: link[side] }
 }
 
 function App() {
-  const [data, setData] = React.useState<
-    Remote<{ nodes: Node[]; links: Link[] }>
-  >({
+  const [data, setData] = React.useState<Remote<GraphData>>({
     state: 'pending',
   })
   const [selectedNode, setSelectedNode] = React.useState<Node | null>(null)
@@ -122,15 +117,15 @@ function App() {
     if (data.state === 'loaded') {
       data.data.links.forEach((link) => {
         if (link.source === selectedNode?.id) {
-          if (link.type === 'silence') {
+          if (link.severity === 'silence') {
             links.silences.push(linkMeta('target', link))
-          } else if (link.type === 'suspend') {
+          } else if (link.severity === 'suspend') {
             links.blocks.push(linkMeta('target', link))
           }
         } else if (link.target === selectedNode?.id) {
-          if (link.type === 'silence') {
+          if (link.severity === 'silence') {
             links.isSilencedBy.push(linkMeta('source', link))
-          } else if (link.type === 'suspend') {
+          } else if (link.severity === 'suspend') {
             links.isBlockedBy.push(linkMeta('source', link))
           }
         }
@@ -241,6 +236,10 @@ function App() {
                   instance list sourced from{' '}
                   <a href="https://instances.social/">instances.social</a>;
                   block lists sourced from each instance
+                </p>
+                <p>
+                  last updated{' '}
+                  {new Date(data.data.lastUpdated).toLocaleString()}
                 </p>
                 <p>
                   instances do not always share their instance moderation lists;
