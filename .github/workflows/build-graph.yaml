@@ -21,8 +21,7 @@ jobs:
           workflow: build.yaml
           workflow_conclusion: success
           name: build-graph
-      - name: Debug
-        run: ls -lah
+      - run: chmod +x build-graph
       - name: Run graph builder
         run: ./build-graph
         env:
