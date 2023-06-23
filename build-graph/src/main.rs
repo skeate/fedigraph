@@ -84,7 +84,7 @@ async fn get_moderation(
 async fn get_instance_list(api_key: String) -> Result<Vec<Instance>, Box<dyn Error>> {
     let client = reqwest::Client::new();
     let resp = client
-        .get("https://instances.social/api/1.0/instances/list?count=0")
+        .get("https://instances.social/api/1.0/instances/list?count=10")
         .header(AUTHORIZATION, format!("Bearer {}", api_key))
         .send()
         .await?;
