@@ -1,0 +1,14 @@
+[package]
+name = "build-graph"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.26"
+futures = "0.3.28"
+reqwest = { version = "0.11.18", features = ["json"] }
+serde = { version = "1.0.164", features = ["derive", "rc"] }
+serde_json = "1.0.97"
+tokio = { version = "1.28.2", features = ["full"] }
