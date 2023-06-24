@@ -37,13 +37,13 @@ let globalGraph: Graph<Node, Link> | undefined = undefined
 
 export const renderGraph = ({ canvas, data }: GraphParams): GraphApi => {
   const config: GraphConfigInterface<Node, Link> = {
-    // backgroundColor: '#151515',
+    backgroundColor: '#151515',
     nodeColor: '#6364FFaa',
     linkGreyoutOpacity: 0,
     linkColor: (link) => {
       switch (link.severity) {
         case 'silence':
-          return '#88fa'
+          return '#55fe'
         case 'suspend':
           return '#f00a'
         default:
@@ -52,20 +52,18 @@ export const renderGraph = ({ canvas, data }: GraphParams): GraphApi => {
     },
     nodeSize: (node) => Math.max(Math.log(node.users), 1),
     simulation: {
-      center: 0.5,
-      // decay: 10000,
+      center: 1,
+      decay: 300,
       linkDistance: 50,
-      // linkSpring: 5,
       repulsion: 0.5,
-      // repulsionTheta: 1,
-      // gravity: 0,
+      gravity: 0.5,
     },
   }
 
   const graph = globalGraph ?? (globalGraph = new Cosmos(canvas, config))
   const { nodes, links } = data
   graph.setData(nodes, links)
-  graph.zoom(2)
+  graph.zoom(4)
 
   return {
     addSelectListener: (onClick) =>
