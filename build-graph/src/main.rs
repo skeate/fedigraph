@@ -162,7 +162,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
                             if public { "public" } else { "private" }
                         );
                         if moderations.len() > 0 {
-                            lnc.lock().unwrap().insert(name.clone());
                             plc.lock().unwrap().insert(name.clone());
                         }
                         for m in moderations {
@@ -186,13 +185,12 @@ async fn main() -> Result<(), Box<dyn Error>> {
         })
         .await;
 
-    linked_nodes_arc.lock().unwrap().iter().for_each(|name| {
-        let imc = instance_map_arc.clone();
-        if imc.contains_key(name) {
+    instance_map_arc.keys().for_each(|key| {
+        if linked_nodes_arc.lock().unwrap().contains(key) {
             graph_arc.clone().lock().unwrap().nodes.push(GraphNode {
-                id: name.clone(),
-                users: imc.get(name).unwrap_or(&0).clone(),
-                public_moderation: public_lists_arc.lock().unwrap().contains(name),
+                id: key.clone(),
+                users: instance_map_arc.get(key).unwrap_or(&0).clone(),
+                public_moderation: false,
             });
         }
     });
