@@ -1,8 +1,11 @@
 import React from 'react'
 import { SingleValue } from 'react-select'
 import Select from 'react-select/async'
+import useLocation from 'wouter/use-location'
 
-import { GraphApi, GraphData, Link, type Node, renderGraph } from './graph'
+import type { GraphApi, GraphData, Link, Node } from './graph'
+
+const aGraph = import('./graph')
 
 const graphData = fetch('/graph.json').then(
   (res) => res.json() as Promise<GraphData>,
@@ -20,13 +23,20 @@ const linkMeta = (side: 'target' | 'source', link: Link): LinkMeta => {
 }
 
 function App() {
+  const [location, setLocation] = useLocation({})
   const [data, setData] = React.useState<Remote<GraphData>>({
     state: 'pending',
   })
   const [selectedNode, setSelectedNode] = React.useState<Node | null>(null)
   const [graph, setGraph] = React.useState<GraphApi | undefined>(undefined)
+
   const setSelectedNodeByName = React.useCallback(
-    (name: string) => {
+    (name: string | null) => {
+      if (name === null) {
+        setSelectedNode(null)
+        graph?.unselectNodes()
+        return
+      }
       if (data.state === 'loaded') {
         const node = data.data.nodes.find((n) => n.id === name)
         if (node !== undefined) {
@@ -37,6 +47,17 @@ function App() {
     },
     [data, graph],
   )
+
+  React.useEffect(() => {
+    if (data.state === 'loaded') {
+      if (location !== '/') {
+        setSelectedNodeByName(location.slice(1))
+      } else {
+        setSelectedNodeByName(null)
+      }
+    }
+  }, [data.state, location, setSelectedNodeByName])
+
   const renderLinkMeta = React.useCallback(
     (linkMeta: LinkMeta) => (
       <li key={linkMeta.name}>
@@ -46,7 +67,7 @@ function App() {
           className={linkMeta.comment ? 'has-comment' : ''}
           onClick={(e) => {
             e.preventDefault()
-            setSelectedNodeByName(linkMeta.name)
+            setLocation('/' + linkMeta.name)
           }}
           aria-describedby={linkMeta.name}
         >
@@ -59,17 +80,18 @@ function App() {
         )}
       </li>
     ),
-    [setSelectedNodeByName],
+    [setLocation],
   )
 
-  const onClick = React.useCallback((node?: Node) => {
-    console.log('in react onclick')
-    setSelectedNode(node ?? null)
-  }, [])
+  const onClick = React.useCallback(
+    (node?: Node) => {
+      setLocation('/' + (node ? node.id : ''))
+    },
+    [setLocation],
+  )
 
   React.useEffect(() => {
     if (graph !== undefined) {
-      console.log('attaching graph event listeners')
       graph.addSelectListener(onClick)
     }
   }, [graph, onClick])
@@ -79,7 +101,7 @@ function App() {
       try {
         const result = await graphData
         setData({ state: 'loaded', data: result })
-        const graph = renderGraph({
+        const graph = (await aGraph).renderGraph({
           canvas: document.getElementById('graph') as HTMLCanvasElement,
           data: result,
         })
@@ -136,19 +158,13 @@ function App() {
 
   const onChangeHandler = React.useCallback(
     (value: SingleValue<{ value: string; label: string }>) => {
-      console.log('in onchange', value)
       if (value === null || value.value === undefined) {
-        graph?.unselectNodes()
-        setSelectedNode(null)
+        setLocation('/')
       } else {
-        graph?.selectNodeById(value.value)
-        if (data.state === 'loaded')
-          setSelectedNode(
-            data.data.nodes.find((n) => n.id === value.value) ?? null,
-          )
+        setLocation('/' + value.value)
       }
     },
-    [data, graph],
+    [setLocation],
   )
 
   const [panelHidden, setPanelHidden] = React.useState(false)
